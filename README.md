@@ -1,5 +1,5 @@
 # Iris Flower Classification
-Usually referred to as the “Hello World” of Machine Learning. Iris classification is a classic ML problem that involves classifying different species of iris flowers based on their measured characteristics. It is a popular introductory example due to its simplicity and availability of a well-known dataset.
+Usually referred to as the “Hello World” of Machine Learning, Iris classification is a classic ML problem that involves classifying different species of iris flowers based on their measured characteristics. It is a popular introductory example due to its simplicity and availability of a well-known dataset.
 
 ## Dataset
 **Source:** https://archive.ics.uci.edu/dataset/53/iris
