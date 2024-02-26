@@ -13,7 +13,7 @@ The goal is to build machine learning model that can accurately predict the spec
 
 ## Data Preprocessing 
 * There is no missing or null values in the dataset.
-* There is no class imbalance. Each target variable (iris species) are perfectly balanced.
+* There is no class imbalance. All target variables (iris species) are perfectly balanced.
 * No distinct outliers
 
 ## Data Splitting & Feature Engineering
